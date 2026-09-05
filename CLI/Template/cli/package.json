@@ -1,0 +1,36 @@
+{
+  "name": "nikhilbhatt-dev",
+  "version": "1.0.0",
+  "description": "CLI to generate a production-ready Node.js backend",
+  "type": "module",
+  "bin": {
+    "nikhilbhatt-dev": "src/index.js"
+  },
+  "files": [
+    "src",
+    "template",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node _repro/e2e_test.mjs"
+  },
+  "keywords": [
+    "cli",
+    "generator",
+    "backend",
+    "nodejs",
+    "express",
+    "mongodb",
+    "scaffold"
+  ],
+  "author": "Nikhil Bhatt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NikhilBhatt-dev/Project.git"
+  }
+}

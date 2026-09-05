@@ -1,0 +1,14 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+npm info using npm@11.17.0
+npm info using node@v24.19.0
+npm verbose title npm exec c:\Project\CLI\Template\cli\nikhilbhatt-dev-1.0.0.tgz my-backend
+npm verbose argv "exec" "--loglevel" "verbose" "--" "c:\\Project\\CLI\\Template\\cli\\nikhilbhatt-dev-1.0.0.tgz" "my-backend"
+npm verbose logfile logs-max:10 dir:C:\Users\nikhi\AppData\Local\npm-cache\_logs\2026-08-23T15_46_46_034Z-
+npm verbose logfile C:\Users\nikhi\AppData\Local\npm-cache\_logs\2026-08-23T15_46_46_034Z-debug-0.log
+npm verbose cwd c:\Project\CLI\Template\cli\_repro
+npm verbose os Windows_NT 10.0.26200
+npm verbose node v24.19.0
+npm verbose npm  v11.17.0
+npm verbose exit 0
+npm info ok
+=== EXIT: 0 

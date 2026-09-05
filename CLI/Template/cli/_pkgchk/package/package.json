@@ -1,0 +1,25 @@
+{
+  "name": "nikhilbhatt-dev",
+  "version": "1.0.0",
+  "description": "CLI to generate a production-ready Node.js backend",
+  "type": "module",
+  "bin": {
+    "nikhilbhatt-dev": "src/index.js"
+  },
+  "files": [
+    "src",
+    "template"
+  ],
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "cli",
+    "backend",
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Nikhil Bhatt",
+  "license": "MIT"
+}

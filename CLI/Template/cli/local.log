@@ -1,0 +1,15 @@
+
+╔══════════════════════════════════════╗
+║          NikhilBhatt-dev             ║
+║       Backend Generator CLI          ║
+╚══════════════════════════════════════╝
+
+📁 Template found: c:\Project\CLI\Template\cli\template\backend
+✅ Backend project "my-local-test" created successfully!
+   Location: c:\Project\CLI\Template\cli\my-local-test
+
+Do you want to install dependencies now? (y/n): 
+⏭️  Skipping dependency installation.
+   You can install dependencies manually later by running:
+     cd my-local-test && npm install
+local-CLI-exit:0 

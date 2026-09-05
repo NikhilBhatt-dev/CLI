@@ -1,0 +1,16 @@
+npm warn exec The following package was not found and will be installed: file:c:/Project/CLI/Template/cli/nikhilbhatt-dev-1.0.0.tgz
+
+╔══════════════════════════════════════╗
+║          NikhilBhatt-dev             ║
+║       Backend Generator CLI          ║
+╚══════════════════════════════════════╝
+
+📁 Template found: C:\Users\nikhi\AppData\Local\npm-cache\_npx\d8db6d50aa556859\node_modules\nikhilbhatt-dev\template\backend
+✅ Backend project "my-backend" created successfully!
+   Location: c:\Project\CLI\Template\cli\_repro\my-backend
+
+Do you want to install dependencies now? (y/n): 
+⏭️  Skipping dependency installation.
+   You can install dependencies manually later by running:
+     cd my-backend && npm install
+=== CLI EXIT: 0 
